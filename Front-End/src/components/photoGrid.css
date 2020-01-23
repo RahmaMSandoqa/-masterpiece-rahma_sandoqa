@@ -1,0 +1,25 @@
+.example_c {
+  color: #494949 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.example_c:hover {
+  color: #ffffff !important;
+  background: #f6b93b;
+  border-color: #f6b93b !important;
+  transition: all 0.4s ease 0s;
+}
+
+.example_d {
+  color: #494949 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.4s ease 0s;
+}
+.example_d:hover {
+  color: #ffffff !important;
+  background: #ffebcd;
+  border-color: #ffebcd !important;
+  transition: all 0.4s ease 0s;
+}
